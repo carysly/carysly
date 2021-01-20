@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello ! 👋
+
+Je suis développeuse web, je travaille principalement avec le framework Laravel.
 
 <!--
 **carysly/carysly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
